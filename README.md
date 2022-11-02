@@ -2,17 +2,17 @@
 
 ## Soft Skills
 `PHP` `PSR` `OOP` `SOLID` `PHP PATTERNS DESIGN`
-<br>
+
 `MYSQL` `PHPMYADMIN` `MYSQL CLIENTS` `TRIGGERS`
-<br>
+
 `CSS` `SCSS` `LESS` `HTML` `BOOTSTRAP` `JQUERY` `БЭМ`
-<br>
+
 `NPM` `YARN` `WEBPACK` `GULP`
-<br>
+
 `ADOBE PHOTOSHOP, ILLUSTRATOR` `PHPSTORM` `FIGMA`
-<br>
+
 `DOCKER` `DOCKER COMPOSE` `COMPOSER` `OPENSERVER`
-<br>
+
 `WORDPRESS` `BITRIX`
 <br><br>
 ***Выделил всего три тк они больше всего мне нравятся, конечно я и с другими либами работал, даже написал свою.***
