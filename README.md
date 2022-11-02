@@ -1,16 +1,18 @@
- # Soft Skills
+# Портфолио 
+
+## Soft Skills
 `PHP` `PSR` `OOP` `SOLID` `PHP PATTERNS DESIGN`
-<br><br>
+<br>
 `MYSQL` `PHPMYADMIN` `MYSQL CLIENTS` `TRIGGERS`
-<br><br>
+<br>
 `CSS` `SCSS` `LESS` `HTML` `BOOTSTRAP` `JQUERY` `БЭМ`
-<br><br>
+<br>
 `NPM` `YARN` `WEBPACK` `GULP`
-<br><br>
+<br>
 `ADOBE PHOTOSHOP, ILLUSTRATOR` `PHPSTORM` `FIGMA`
-<br><br>
+<br>
 `DOCKER` `DOCKER COMPOSE` `COMPOSER` `OPENSERVER`
-<br><br>
+<br>
 `WORDPRESS` `BITRIX`
 <br><br>
 ***Выделил всего три тк они больше всего мне нравятся, конечно я и с другими либами работал, даже написал свою.***
@@ -24,7 +26,7 @@
 ***Был опыт работы, но уровень начальный.***
 <br>
 `VUE` `ANGULAR`
-______
+
 # Обо мне
 Родился на севере, в 2021 году переехал в Калининград. 
 Программировать начал в 2018 году, 
@@ -40,8 +42,8 @@ ______
 Коммуникабельный, не боюсь сложностей, уверенно работаю в команде. Со временем, анализируя задачи, которые приходят
 и темы, которые обсуждаются, провожу их через внутренний фильтр "Целесообразность", могу долго и упорно отстаивать свою позицию,
 пока не убеждусь в том, что я не прав.
-___
-# Примеры кода
+
+## Примеры кода
 API для HeadHinter [тык](https://github.com/KirStepankov/MyHHAPI).
 
 Просчёт себистоимости блюд по интридиентам [тык](https://github.com/KirStepankov/CostCalc).
